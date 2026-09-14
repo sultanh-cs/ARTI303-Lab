@@ -1,0 +1,26 @@
+
+3 ?-  father(salem, omar).
+true.
+
+4 ?- father(salem, hana).
+true.
+
+5 ?- mother(hana, fahad).
+true.
+
+6 ?- mother(salem, omar).
+false.
+
+7 ?- sister(hana, omar).
+true.
+
+8 ?- sister(sultanh, omar).
+true.
+
+9 ?- brother(omar, hana).
+true.
+
+10 ?- brother(omar, sultanh).
+true.
+
+11 ?- 
